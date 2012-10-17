@@ -1,0 +1,32 @@
+/* line 1, ../sass/main.scss */
+body {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 64%;
+  background: #333;
+  margin: 0;
+}
+
+/* line 8, ../sass/main.scss */
+h1, h2 {
+  background: #fff;
+  display: inline-block;
+  padding: 0;
+  text-indent: -0.2em;
+  text-transform: uppercase;
+}
+
+/* line 16, ../sass/main.scss */
+ul {
+  width: 60%;
+  font-size: 1.2em;
+  list-style-type: square;
+  padding: 0 1.4em;
+  color: #999;
+}
+
+/* line 24, ../sass/main.scss */
+img[data-img] {
+  height: 200px;
+  display: block;
+  margin: 0 1em 1em 0;
+}
